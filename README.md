@@ -1,5 +1,3 @@
-# Instagram Clone App
-
 # Getting Started
 A good example of a clone app for Kotlin beginners
 
